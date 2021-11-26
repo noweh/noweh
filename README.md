@@ -17,7 +17,7 @@ I am [Julien SCHMITT](https://twitter.com/Noweh95), Backend developer from Franc
   </a>
 </div>
 
-
+![Visits Badge](https://badges.pufler.dev/visits/noweh/noweh)
 
 
 <!--
