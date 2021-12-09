@@ -16,6 +16,7 @@ I am [Julien SCHMITT](https://twitter.com/Noweh95), Backend developer from Franc
     <img alt="Julien's LinkedIN" width="22px" src="https://raw.githubusercontent.com/noweh/noweh/master/img/linkedin.svg" />
   </a>
 </div>
+<br />
 
 ![Visits Badge](https://badges.pufler.dev/visits/noweh/noweh)
 
