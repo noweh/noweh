@@ -18,8 +18,7 @@ I am [Julien SCHMITT](https://twitter.com/Noweh95), Backend developer from Franc
 </div>
 <br />
 
-![Visits Badge](https://badges.pufler.dev/visits/noweh/noweh)
-
+![Visits Badge](https://badges.pufler.dev/visits/noweh/noweh?style=flat-square&color=blue)
 
 <!--
 **noweh/noweh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
