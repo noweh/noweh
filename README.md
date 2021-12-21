@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://raw.githubusercontent.com/noweh/noweh/master/img/drawing.png" alt="Julien SCHMITT" height="205"/>  
+  <img src="https://raw.githubusercontent.com/noweh/noweh/master/img/profile.png" alt="Julien SCHMITT" height="205"/>  
   <img src="https://github-readme-stats.vercel.app/api?username=noweh&show_icons=true&theme=graywhite" alt="Github Stats" />
 </div>
 
