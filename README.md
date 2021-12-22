@@ -11,7 +11,7 @@
 
 <p align='left'>Backend developer from France, having more than 1X years of experiences. Passionate about optimization, data processing (Redis/Varnish/ElasticSearch/RabbitMQ) and REST APIs.</p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noweh&layout=compact)
 
 ![Visits Badge](https://badges.pufler.dev/visits/noweh/noweh?style=flat-square&color=blue&label=Profile%20views)
 
