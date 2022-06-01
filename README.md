@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=noweh&show_icons=true&theme=graywhite" alt="Github Stats" />
 </div>
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am [Julien SCHMITT](https://twitter.com/Noweh95)
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am [Julien SCHMITT](https://twitter.com/Noweh95)
 [![Twitter Badge](https://img.shields.io/badge/-Noweh95-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/Noweh95/)
 [![Linkedin Badge](https://img.shields.io/badge/-jschmitt95-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/)](https://www.linkedin.com/in/jschmitt95/)
 [![Github Badge](https://img.shields.io/badge/-noweh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noweh/)](https://www.github.com/noweh/)
