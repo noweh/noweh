@@ -1,9 +1,5 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
----
-
-### 👨‍💻 &nbsp;About Me
-
 I am [Julien SCHMITT](https://twitter.com/Noweh95), back-end developer from France, having more than 1X years of experiences. Passionate about optimization, data processing (Redis/Varnish/ElasticSearch/RabbitMQ) and REST APIs.
 
 [![Twitter Badge](https://img.shields.io/badge/-Noweh95-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/Noweh95/)
