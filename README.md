@@ -1,6 +1,11 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I am [Julien SCHMITT](https://twitter.com/Noweh95), back-end developer from France, having more than 1X years of experiences. Passionate about optimization, data processing (Redis/Varnish/ElasticSearch/RabbitMQ) and REST APIs.
+I am [Julien SCHMITT](https://twitter.com/Noweh95), Backend Software Engineer from France.
+
+With more than 15 years of experience in Information Technology, I acquired and developed skills in several areas:
+ - Back-end development (PHP7/8, Symfony and Laravel Frameworks, Node.js),
+ - REST architecture,
+ - data processing (Redis/Varnish/ElasticSearch/RabbitMQ)
 
 [![Twitter Badge](https://img.shields.io/badge/-Noweh95-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/Noweh95/)
 [![Linkedin Badge](https://img.shields.io/badge/-jschmitt95-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/)](https://www.linkedin.com/in/jschmitt95/)
