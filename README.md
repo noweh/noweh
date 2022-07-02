@@ -7,6 +7,8 @@ With more than 15 years of experience in Information Technology, I acquired and 
  - REST architecture,
  - data processing (Redis/Varnish/ElasticSearch/RabbitMQ)
 
+Passionate about computer programming and web technologies, I am always on the lookout for the latest and next trends.
+
 [![Twitter Badge](https://img.shields.io/badge/-Noweh95-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/Noweh95/)
 [![Linkedin Badge](https://img.shields.io/badge/-jschmitt95-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/)](https://www.linkedin.com/in/jschmitt95/)
 [![Github Badge](https://img.shields.io/badge/-noweh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noweh/)](https://www.github.com/noweh/)
