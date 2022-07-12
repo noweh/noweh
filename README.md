@@ -5,7 +5,7 @@ I am [Julien SCHMITT](https://twitter.com/Noweh95), Backend Software Engineer fr
 With more than 15 years of experience in Information Technology, I acquired and developed skills in many areas:
  - Back-end development (PHP7/8, Symfony and Laravel Frameworks, Node.js),
  - REST architecture,
- - data processing (Redis/Varnish/ElasticSearch/RabbitMQ)
+ - data processing (Redis/Varnish/ElasticSearch/RabbitMQ).
 
 Passionate about computer programming and web technologies, I am always on the lookout for the latest and next trends.
 
