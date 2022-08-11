@@ -41,11 +41,11 @@ With Twitter API:
 
 And other...
 
+---
+
 ### 🛠 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noweh&layout=compact)
-
----
 
 
 <!--
