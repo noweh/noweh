@@ -28,6 +28,7 @@ Passionate about computer programming and web technologies, I am always on the l
 
 I did a few stuff for Laravel:
 
+- [noweh/laravel-dijkstra](https://github.com/noweh/laravel-dijkstra) - Dijkstra Shortest path-algorithm for Laravel.
 - [noweh/laravel-payzen](https://github.com/noweh/laravel-payzen) - Laravel Payzen form creation.
 - [noweh/laravel-soundcloud](https://github.com/noweh/laravel-soundcloud) - Laravel Wrapper for the Soundcloud REST API endpoints.
 - [noweh/laravel-twitter](https://github.com/noweh/laravel-twitter) - Laravel Wrapper for Twitter API V2.
@@ -48,7 +49,6 @@ And other...
 
 ---
 
-![Visits Badge](https://badges.pufler.dev/visits/noweh/noweh?style=flat-square&color=blue&label=Profile%20views)
 
 <!--
 **noweh/noweh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
