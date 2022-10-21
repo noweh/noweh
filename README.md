@@ -1,5 +1,7 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
+<br>
+
 I am [Julien SCHMITT](https://twitter.com/Noweh95), Backend Software Engineer from France.
 
 With more than 15 years of experience in Information Technology, I acquired and developed skills in many areas:
@@ -7,11 +9,21 @@ With more than 15 years of experience in Information Technology, I acquired and 
  - REST architecture,
  - data processing (Redis/Varnish/ElasticSearch/RabbitMQ).
 
+<br>
 Passionate about computer programming and web technologies, I am always on the lookout for the latest and next trends.
 
+---
+
+Join me elsewhere:
+
 [![Twitter Badge](https://img.shields.io/badge/-Noweh95-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/Noweh95/)
-[![Linkedin Badge](https://img.shields.io/badge/-jschmitt95-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/)](https://www.linkedin.com/in/jschmitt95/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-jschmitt95-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/?locale=en_US)](https://www.linkedin.com/in/jschmitt95/?locale=en_US)
 [![Github Badge](https://img.shields.io/badge/-noweh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noweh/)](https://www.github.com/noweh/)
+
+And also:
+
+[![Stack Overflow Badge](https://img.shields.io/badge/-Stackoverflow-00acee?style=fla&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&link=https://stackoverflow.com/users/5320614/noweh5)](https://stackoverflow.com/users/5320614/noweh)
+[![CodinGame Badge](https://img.shields.io/badge/-CodinGame-00acee?style=flat&color=222222&logo=CodinGame&logoColor=F2BB13&link=https://www.codingame.com/profile/de68c0a539716cbb68b4d0b4a184a9b16062105)](https://www.codingame.com/profile/de68c0a539716cbb68b4d0b4a184a9b16062105)
 
 ---
 
