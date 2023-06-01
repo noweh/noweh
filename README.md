@@ -17,7 +17,7 @@ Passionate about computer programming and web technologies, I am always on the l
 Join me elsewhere:
 
 [![Twitter Badge](https://img.shields.io/badge/-Noweh95-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/Noweh95/)
-[![Linkedin Badge](https://img.shields.io/badge/-jschmitt95-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/?locale=en_US)](https://www.linkedin.com/in/jschmitt95/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-julien-schmitt-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/?locale=en_US)](https://www.linkedin.com/in/julien-schmitt-backend-developer/?locale=en_US)
 [![Github Badge](https://img.shields.io/badge/-noweh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noweh/)](https://www.github.com/noweh/)
 
 And also:
