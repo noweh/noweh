@@ -9,7 +9,8 @@ With more than 15 years of experience in Information Technology, I acquired and 
  - REST architecture,
  - data processing (Redis/Varnish/ElasticSearch/RabbitMQ).
 
-<br>
+I am also a content creator on [explain.code-to.me](https://explain.code-to.me/), where I share articles and tutorials in French to demystify various programming and computer science concepts.
+
 Passionate about computer programming and web technologies, I am always on the lookout for the latest and next trends.
 
 ---
@@ -22,6 +23,7 @@ Join me elsewhere:
 
 And also:
 
+[![explain.code-to.me](https://custom-icon-badges.demolab.com/badge/explain.code--to.me-grey?style=flat&logo=explain-code&logoColor=white)](https://explain.code-to.me/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stackoverflow-00acee?style=fla&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&link=https://stackoverflow.com/users/5320614/noweh5)](https://stackoverflow.com/users/5320614/noweh)
 [![CodinGame Badge](https://img.shields.io/badge/-CodinGame-00acee?style=flat&color=222222&logo=CodinGame&logoColor=F2BB13&link=https://www.codingame.com/profile/de68c0a539716cbb68b4d0b4a184a9b16062105)](https://www.codingame.com/profile/de68c0a539716cbb68b4d0b4a184a9b16062105)
 
