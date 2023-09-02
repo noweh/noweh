@@ -33,7 +33,7 @@ And also:
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/11422029/173511097-0b40fc56-7a51-44ce-b4c1-d944250adc23.gif" alt="Noweh" height="195"/>  
-  <img src="https://github-readme-stats.vercel.app/api?username=noweh&show_icons=true&theme=graywhite" alt="Github Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=noweh&show_icons=true&theme=graywhite" alt="Github Stats" />
 </div>
 
 ---
