@@ -50,6 +50,7 @@ I did a few stuff for Laravel:
 With Twitter API:
 
 - [noweh/twitter-api-v2-php](https://github.com/noweh/twitter-api-v2-php) - PHP package providing easy and fast access to Twitter API V2.
+- [noweh/post-tweet-v2-action](https://github.com/noweh/post-tweet-v2-action) - GitHub Action to post a message on Twitter.
 - [noweh/can-we-deploy-today](https://github.com/noweh/can-we-deploy-today) - Twitter bot that tells you if you can deploy or not! You just need to ask @canWeDeploy on Twitter.
 - [noweh/project-marvel-memories](https://github.com/noweh/project-marvel-memories) - Twitter bot using Twitter API and Marvel API.
 
