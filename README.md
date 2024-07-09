@@ -17,9 +17,9 @@ Passionate about computer programming and web technologies, I am always on the l
 
 Join me elsewhere:
 
-[![Twitter Badge](https://img.shields.io/badge/-NowehJS-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/NowehJS/)
-[![Linkedin Badge](https://img.shields.io/badge/-jschmitt-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/?locale=en_US)](https://www.linkedin.com/in/julien-schmitt-backend-developer/?locale=en_US)
-[![Github Badge](https://img.shields.io/badge/-noweh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noweh/)](https://www.github.com/noweh/)
+[![X Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=X&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/NowehJS/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/?locale=en_US)](https://www.linkedin.com/in/julien-schmitt-backend-developer/?locale=en_US)
+[![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noweh/)](https://www.github.com/noweh/)
 
 And also:
 
