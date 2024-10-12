@@ -2,20 +2,26 @@
 
 <br>
 
-I am [Julien SCHMITT](https://twitter.com/Noweh95), Lead Backend Engineer from France.
+I am [Julien SCHMITT](https://twitter.com/NowehJS), Lead Backend Engineer from France.
 
-With more than 15 years of experience in Information Technology, I acquired and developed skills in many areas:
- - Back-end development (PHP7/8, Symfony and Laravel Frameworks, Node.js),
- - REST architecture,
- - data processing (Redis/Varnish/ElasticSearch/RabbitMQ).
+With over 15 years of experience in Information Technology, I have honed my skills in Back-end development (PHP7/8, Symfony and Laravel Frameworks, Node.js), REST architecture, and data processing (Redis, Varnish, ElasticSearch, RabbitMQ). My passion for programming and web technologies drives me to stay up-to-date with the latest trends, always seeking to improve my craft.
 
-I am also a content creator on [explain.code-to.me](https://explain.code-to.me/), where I share articles and tutorials in French to demystify various programming and computer science concepts.
+I enjoy working on innovative projects, both individually and as part of a team, and I take pride in creating solutions that solve real-world problems.
 
-Passionate about computer programming and web technologies, I am always on the lookout for the latest and next trends.
+Feel free to explore my [Repositories](https://github.com/noweh?tab=repositories) to see some of my recent work, including open-source contributions and personal projects.
 
 ---
 
-Join me elsewhere:
+### 🕹️ My latest projects
+
+Here are a few of my latest creation:
+
+- [noweh/flappy-man](https://github.com/noweh/flappy-man) - A terminal-based game inspired by Flappy Bird, entirely coded in PHP with Laravel and ReactPHP. Navigate through obstacles in a fun, ASCII-art animated environment.
+- [ecoactitude/ecoactitude-memory-game](https://github.com/ecoactitude/ecoactitude-memory-game) - A simple and interactive memory card game built with Laravel Livewire. Try to match all the pairs as quickly as possible!
+
+---
+
+### 🌍 Connect with me
 
 [![X Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=X&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/NowehJS/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/?locale=en_US)](https://www.linkedin.com/in/julien-schmitt-backend-developer/?locale=en_US)
@@ -38,9 +44,9 @@ And also:
 
 ---
 
-### 🔭 My last works
+### 🔭 My other works
 
-I did a few stuff for Laravel:
+Some Laravel packages I've created:
 
 - [noweh/laravel-dijkstra](https://github.com/noweh/laravel-dijkstra) - Dijkstra Shortest path-algorithm for Laravel.
 - [noweh/laravel-payzen](https://github.com/noweh/laravel-payzen) - Laravel Payzen form creation.
