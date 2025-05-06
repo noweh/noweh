@@ -4,9 +4,11 @@
 
 I am [Julien SCHMITT](https://twitter.com/NowehJS), Lead Backend Engineer from France.
 
-With over 15 years of experience in Information Technology, I have honed my skills in Back-end development (PHP7/8, Symfony and Laravel Frameworks, Node.js), REST architecture, and data processing (Redis, Varnish, ElasticSearch, RabbitMQ). My passion for programming and web technologies drives me to stay up-to-date with the latest trends, always seeking to improve my craft.
+With 15+ years of experience in Information Technology, I’ve developed strong skills in back-end development (PHP 7/8, Symfony, Laravel, Node.js), REST APIs, and high-performance data processing (Redis, Varnish, Elasticsearch, RabbitMQ).
 
-I enjoy working on innovative projects, both individually and as part of a team, and I take pride in creating solutions that solve real-world problems.
+I’m passionate about software engineering and web technologies, always exploring new ideas and tools to stay sharp and evolve with the field.
+
+Beyond code, I love sharing knowledge—mentoring, helping teams grow, and fostering environments where tech excellence meets continuous learning. Because in the end, investing in people is just as crucial as investing in tech.
 
 Feel free to explore my [Repositories](https://github.com/noweh?tab=repositories) to see some of my recent work, including open-source contributions and personal projects.
 
@@ -14,8 +16,10 @@ Feel free to explore my [Repositories](https://github.com/noweh?tab=repositories
 
 ### 🕹️ My latest projects
 
-Here are a few of my latest creation:
+Here are a few of my latest creations:
 
+- [noweh/kingsboard](https://github.com/noweh/kingsboard) / [noweh/kingsboard-app](https://github.com/noweh/kingsboard-app) - A Laravel-based project using API Platform and a React application to handle chessboard-related operations. Website [here](https://kingsboard.fr).
+- [noweh/phpong](https://github.com/noweh/PHPong) - A Pong game in PHP with Laravel Livewire and AlpineJS.
 - [noweh/flappy-man](https://github.com/noweh/flappy-man) - A terminal-based game inspired by Flappy Bird, entirely coded in PHP with Laravel and ReactPHP. Navigate through obstacles in a fun, ASCII-art animated environment.
 - [ecoactitude/ecoactitude-memory-game](https://github.com/ecoactitude/ecoactitude-memory-game) - A simple and interactive memory card game built with Laravel Livewire. Try to match all the pairs as quickly as possible!
 
@@ -23,13 +27,13 @@ Here are a few of my latest creation:
 
 ### 🌍 Connect with me
 
-[![X Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=X&logoColor=white&link=https://twitter.com/Noweh95/)](https://www.twitter.com/NowehJS/)
+[![X Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=X&logoColor=white&link=https://twitter.com/NowehJS/)](https://www.twitter.com/NowehJS/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschmitt95/?locale=en_US)](https://www.linkedin.com/in/julien-schmitt-backend-developer/?locale=en_US)
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noweh/)](https://www.github.com/noweh/)
 
 And also:
 
-[![explain.code-to.me](https://custom-icon-badges.demolab.com/badge/explain.code--to.me-grey?style=flat&logo=explain-code&logoColor=white)](https://explain.code-to.me/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@julien_schmitt)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stackoverflow-00acee?style=fla&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&link=https://stackoverflow.com/users/5320614/noweh5)](https://stackoverflow.com/users/5320614/noweh)
 [![CodinGame Badge](https://img.shields.io/badge/-CodinGame-00acee?style=flat&color=222222&logo=CodinGame&logoColor=F2BB13&link=https://www.codingame.com/profile/de68c0a539716cbb68b4d0b4a184a9b16062105)](https://www.codingame.com/profile/de68c0a539716cbb68b4d0b4a184a9b16062105)
 
