@@ -42,7 +42,7 @@ And also:
 ### 📈 My GitHub Statistics
 
 <div align="left">
-  <img src="https://github.com/noweh/noweh/blob/dev-master/img/loop-coding.gif" alt="Noweh" height="195"/>  
+  <img src="https://github.com/noweh/noweh/blob/dev-master/img/loop-coding-crop.gif" alt="Noweh" height="195"/>  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=noweh&show_icons=true&theme=graywhite" alt="Github Stats" />
 </div>
 
